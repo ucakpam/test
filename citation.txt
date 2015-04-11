@@ -1,0 +1,571 @@
+%%
+%% WinShell 3.3.2.6
+%% http://www.winshell.org/
+%%
+
+% Strings
+
+
+% Preamble
+
+
+% BibTeX Entries
+@incollection{BCMPPRT08,
+ author               = {A. Bonilla and E. Cagigal and A. Mediavilla and E. Perea and J. P\'{e}rez and A. Romero and E. Turienzo},
+ booktitle            = {II Jornadas de Investigaci\'{o}n en Construcci\'{o}n},
+ publisher            = {Instituto de Ciencias de la Construcci\'{o}n Eduardo Torroja, CSIC, Madrid, Spain},
+ title                = {Auzener: {M}odelo de {S}imulaci\'{o}n {V}irtual del {B}alance {E}nerg\'{e}tico de {B}arrios {O}rientado a la {O}ptimizaci\'{o}n {E}nerg\'{e}tica y {E}con\'{o}mica de los {M}ismos},
+ year                 = {2008},
+ }
+
+@techreport{BKA12,
+ author               = {BKA},
+ institution          = {Bundeskanzleramt \"{O}sterreich},
+ number               = {\"{O}SET-VO 2012},
+ title                = {{\"{O}kostrom-Einspeisetarifverordnung 2012}},
+ type                 = {Green Energy Regulation},
+ year                 = {2012},
+ }
+
+@techreport{BKA13,
+ author               = {BKA},
+ institution          = {Bundeskanzleramt \"{O}sterreich},
+ number               = {\"{O}SET-VO 2012},
+ title                = {{\"{A}nderung der \"{O}kostrom-Einspeisetarifverordnung 2012}},
+ type                 = {Green Energy Regulation},
+ year                 = {2013},
+ }
+
+@techreport{BOE09,
+ author               = {BOE},
+ institution          = {Agencia Estatal Bolet\'{i}n Oficial del Estado},
+ number               = {BOE-A-2009-19915},
+ title                = {{Real Decreto 1826/2009, de 27 de Noviembre, por el que se Modifica el Reglamento de Instalaciones T\'{e}rmicas en los Edificios, Aprobado por Real Decreto 1027/2007, de 20 de Julio}},
+ type                 = {Norm for Thermal Installation in Buildings},
+ year                 = {2009},
+ }
+
+@techreport{BOE13,
+ author               = {BOE},
+ institution          = {Agencia Estatal Bolet\'{i}n Oficial del Estado},
+ number               = {BOE-A-2013-8561},
+ title                = {{Orden IET/1491/2013, de 1 de Agosto, por la que se Revisan los Peajes de Acceso de Energ\'{i}a El\'{e}ctrica para su Aplicaci\'{o}n a partir de Agosto de 2013 y por la que se Revisan Determinadas Tarifas y Primas de las Instalaciones del R\'{e}gimen Especial para el Segundo Trimestre de 2013}},
+ type                 = {Special Scheme for Electricity Generation with Renewable Energy Sources},
+ year                 = {2013},
+ }
+
+@techreport{BOE13a,
+ author               = {BOE},
+ institution          = {Agencia Estatal Bolet\'{i}n Oficial del Estado},
+ number               = {BOE-A-2013-1698},
+ title                = {{Orden IET/221/2013, de 14 de Febrero, por la que se Establecen los Peajes de Acceso a Partir de 1 de Enero de 2013 y las Tarifas y Primas de las Instalaciones del R\'{e}gimen Especial}},
+ type                 = {Special Scheme for Electricity Generation with Renewable Energy Sources},
+ year                 = {2013},
+ }
+
+@book{CCM10,
+ address              = {Heidelberg, Germany},
+ author               = {A.J. Conejo and M. Carri\'{on} and J.M. Morales},
+ publisher            = {Springer},
+ title                = {Decision {M}aking under {U}ncertainty in {E}lectricity {M}arkets},
+ year                 = {2010},
+ }
+
+@incollection{CHV03,
+ booktitle            = {Research in Building Physics: Proceedings of the 2nd International Conference on Building Physics},
+ editor               = {J. Carmeliet and H. Hens and G. Vermeir},
+ publisher            = {A.A. Balkema Publishers, Lisse, The Netherlands},
+ year                 = {2003},
+ }
+
+@article{CMEE14,
+ author               = {E. L. Cano and J. M. Moguerza and T. Ermolieva and Y. Ermoliev},
+ journal              = {Computational Management Science},
+ number               = {1--2},
+ pages                = {25--44},
+ title                = {Energy {E}fficiency and {R}isk {M}anagement in {P}ublic {B}uildings: {S}trategic {M}odel for {R}obust {P}lanning},
+ volume               = {11},
+ year                 = {2014},
+ }
+
+@article{CGMS14,
+ author               = {E. L. Cano and M. Groissb\"{o}ck and J. M. Moguerza and M. Stadler},
+ journal              = {Energy and Buildings},
+ pages                = {416--423},
+ title                = {A {S}trategic {O}ptimization {M}odel for {E}nergy {S}ystems {P}lanning},
+ volume               = {81},
+ year                 = {2014},
+ }
+
+@techreport{DIN03,
+ author               = {DIN},
+ institution          = {Deutsches Institut f\"{u}r Normung e.V.},
+ number               = {DIN EN 442-1},
+ title                = {Heizk\"{o}rper und {K}onvektoren - {T}eil 1: {T}echnische {S}pezifikationen und {A}nforderungen},
+ type                 = {National Standard},
+ year                 = {2003},
+ }
+
+@techreport{DIN06,
+ author               = {DIN},
+ institution          = {Deutsches Institut f\"{u}r Normung e.V.},
+ number               = {DIN 4108 Beiblatt 2},
+ title                = {W\"{a}rmeschutz und {E}nergie-{E}insparung in {G}eb\"{a}uden - {W}\"{a}rmebr\"{u}cken - {P}lanungs- und {A}usf\"{u}hrungsbeispiele},
+ type                 = {National Standard},
+ year                 = {2006},
+ }
+
+@techreport{DIN07,
+ author               = {DIN},
+ institution          = {Deutsches Institut f\"{u}r Normung e.V.},
+ number               = {DIN V 18599-2},
+ title                = {Energetische {B}ewertung von {G}eb\"{a}uden - {B}erechnung des {N}utz-, {E}nd- und {P}rim\"{a}renergiebedarfs f\"{u}r {H}eizung,{K}\"{u}hlung, {L}\"{u}ftung, {T}rinkwarmwasser und {B}eleuchtung - {T}eil 2: {N}utzenergiebedarf f\"{u}r {H}eizen und {K}\"{u}hlen von{G}eb\"{a}udezonen},
+ type                 = {National Standard},
+ year                 = {2007},
+ }
+
+@techreport{DIN08,
+ author               = {DIN},
+ institution          = {Deutsches Institut f\"{u}r Normung e.V.},
+ number               = {DIN EN ISO 13790},
+ title                = {Energieeffizienz von {G}eb\"{a}uden - {B}erechnung des {E}nergiebedarfs f\"{u}r {H}eizung und {K}\"{u}hlung},
+ type                 = {National Standard},
+ year                 = {2008},
+ }
+
+@article{E13,
+ author               = {R. Egging},
+ journal              = {Energy Policy},
+ note                 = {forthcoming},
+ title                = {Drivers, {T}rends, and {U}ncertainty in {L}ong-{T}erm {P}rice {P}rojections for {E}nergy {M}anagement in {P}ublic {B}uildings},
+ year                 = {2013},
+ }
+
+@article{EJ04,
+ author               = {F. Engdahl and D. Johansson},
+ journal              = {Energy and Buildings},
+ number               = {3},
+ pages                = {205--218},
+ title                = {Optimal {S}upply {A}ir {T}emperature with {R}espect to {E}nergy {U}se in a {V}ariable {A}ir {V}olume {S}ystem},
+ volume               = {36},
+ year                 = {2004},
+ }
+
+@article{GHMPSS14,
+ author               = {M. Groissb\"{o}ck and S. Heydari and A. Mera and E. Perea and A.S. Siddiqui and M. Stadler},
+ journal              = {Journal of Energy Engineering},
+ number               = {1},
+ pages                = {1--10},
+ title                = {Optimizing {B}uilding {E}nergy {O}perations via {D}ynamic {Z}onal {T}emperature {S}ettings},
+ volume               = {140},
+ year                 = {2014},
+ }
+
+@techreport{GSESHP11,
+ author               = {M. Groissb\"{o}ck and M. Stadler and T. Edlinger and A. Siddiqui and S. Heydari and E. Perea},
+ institution          = {Center for Energy and Innovative Technologies},
+ number               = {C-2011-1},
+ title                = {The {F}irst {S}tep for {I}mplementing a {S}tochastic-based {E}nergy {M}anagement {S}ystem at {C}ampus {P}inkafeld},
+ year                 = {2011},
+ }
+
+@techreport{H11,
+ author               = {HCE and IIASA and SU and UCL and URJC and SINTEF and CET and Tecnalia},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {Requirement {A}ssessment},
+ type                 = {En{R}i{M}a {D}eliverable {D}1.1},
+ year                 = {2011},
+ }
+
+@article{H95,
+ author               = {B. Hobbs},
+ journal              = {European Journal of Operational Research},
+ number               = {1},
+ pages                = {1--20},
+ title                = {Optimization {M}ethods for {E}lectric {U}tility {R}esource {P}lanning},
+ volume               = {83},
+ year                 = {1995},
+ }
+
+@techreport{I11,
+ author               = {IIASA and SU and UCL and URJC and SINTEF and CET and HCE and Tecnalia},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {Requirement {A}nalysis},
+ type                 = {En{R}i{M}a {D}eliverable {D}4.1},
+ year                 = {2011},
+ }
+
+@incollection{KFDKRRG00,
+ author               = {T. Kaarsberg and R. Fiskum and A. Deppe and S. Kumar and A. Rosenfeld and J. Romm and L. Gielen},
+ booktitle            = {2000 ACEEE Summer Study on Energy Efficiency in Buildings - Proceedings},
+ publisher            = {American Council for an Energy Efficient Economy, Washington, D.C., U.S.A.},
+ title                = {Combined {H}eat and {P}ower for {S}aving {E}nergy and {C}arbon in {R}esidential {B}uildings},
+ year                 = {2000},
+ }
+
+@article{KM07,
+ author               = {D.E. King and M.G. Morgan},
+ journal              = {Journal of Energy Engineering},
+ number               = {3},
+ pages                = {150--164},
+ title                = {Adaptive-{F}ocused {A}ssessment of {E}lectric {P}ower {M}icrogrids},
+ volume               = {133},
+ year                 = {2007},
+ }
+
+@article{KMWTHF14,
+ author               = {M. Kaut and K. Midthun and A. Werner and A. Tomasgard and L. Hellemo and M. Fodstad},
+ journal              = {Computational Management Science},
+ number               = {1--2},
+ pages                = {179--193},
+ title                = {Multi-{H}orizon {S}tochastic {P}rogramming},
+ volume               = {11},
+ year                 = {2014},
+ }
+
+@article{LLS12,
+ author               = {Y. Liang and D. Levine and Z.-J. Shen},
+ journal              = {The Energy Journal},
+ number               = {4},
+ pages                = {61--96},
+ title                = {Thermostats for the {S}mart{G}rid: {M}odels, {B}enchmarks, and {I}nsights},
+ volume               = {33},
+ year                 = {2012},
+ }
+
+@phdthesis{M07,
+ address              = {Essen, Germany},
+ author               = {J. Matic},
+ school               = {Universit\"{a}t Duisburg-Essen},
+ title                = {Betriebliche Modellierung, Auslegung und Management von dezentralen Energiesystemen},
+ year                 = {2007},
+ }
+
+@article{MF08,
+ author               = {K. Maribu and S.-E. Fleten},
+ journal              = {The Energy Journal},
+ number               = {2},
+ pages                = {123--150},
+ title                = {Combined {H}eat and {P}ower in {C}ommercial {B}uildings: {I}nvestment and {R}isk {A}nalysis},
+ volume               = {29},
+ year                 = {2008},
+ }
+
+@article{WUFLE14,
+ author               = {A. Werner and K.T. Uggen and M. Fodstad and A.-G. Lium and R. Egging},
+ journal              = {The Energy Journal},
+ number               = {1},
+ pages                = {79--97},
+ title                = {Stochastic {M}ixed-{I}nteger {P}rogramming for {I}ntegrated {P}ortfolio {P}lanning in the {LNG} {S}upply {C}hain},
+ volume               = {35},
+ year                 = {2014},
+ }
+
+@article{SM09,
+ author               = {A. Siddiqui and K. Maribu},
+ journal              = {Energy Economics},
+ number               = {1},
+ pages                = {25--37},
+ title                = {Investment and {U}pgrade in {D}istributed {G}eneration under {U}ncertainty},
+ volume               = {31},
+ year                 = {2009},
+ }
+
+@article{MFMS07,
+ author               = {K. Maribu and R.M. Firestone and C. Marnay and A.S. Siddiqui},
+ journal              = {Energy Policy},
+ number               = {9},
+ pages                = {4471--4484},
+ title                = {{Distributed Energy Resources Market Diffusion Model}},
+ volume               = {35},
+ year                 = {2007},
+ }
+
+@article{MVSSFC08,
+ author               = {C. Marnay and G. Venkataramanan and M. Stadler and A.S. Siddiqui and R.M. Firestone and B. Chandran},
+ journal              = {IEEE Transactions on Power Systems},
+ number               = {3},
+ pages                = {975--982},
+ title                = {Optimal {T}echnology {S}election and {O}peration of {C}ommercial-{Building} {M}icrogrids},
+ volume               = {23},
+ year                 = {2008},
+ }
+
+@techreport{PBHSUW05,
+ author               = {C. Petersdorff and T. Boermans and J. Harnisch and O. Stobbe and S. Ullrich and S. Wartmenn},
+ institution          = {ECOFYS GmbH},
+ title                = {{Cost-Effective Climate Protection in the EU Building Stock}},
+ year                 = {2005},
+ }
+
+@article{PBN13,
+ author               = {K. Pruitt and R. Braun and A. Newman},
+ journal              = {Applied Energy},
+ pages                = {386--398},
+ title                = {Evaluating {S}hortfalls in {M}ixed-{I}nteger {P}rogramming {A}pproaches for the {O}ptimal {D}esign and {D}ispatch of {D}istributed {G}eneration {S}ystems},
+ volume               = {102},
+ year                 = {2013},
+ }
+
+@article{PLLPJW10,
+ author               = {G. Platt and J. Li and R. Li and G. Poulton and G. James and J. Wall},
+ journal              = {Energy and Buildings},
+ number               = {4},
+ pages                = {412--421},
+ title                = {Adaptive {HVAC} {Z}one {M}odeling for {S}ustainable {B}uildings},
+ volume               = {42},
+ year                 = {2010},
+ }
+
+@article{KM12,
+ author               = {G. Kumbaro\u{g}lu and R. Madlener},
+ journal              = {Energy and Buildings},
+ pages                = {327--334},
+ title                = {Evaluation of {E}conomically {O}ptimal {R}etrofit {I}nvestment {O}ptions for {E}nergy {S}avings in {B}uildings},
+ volume               = {49},
+ year                 = {2012},
+ }
+
+@techreport{RP10,
+ author               = {S. Rahman and M. Pipattanasomporn},
+ institution          = {Advanced Research Institute, Virginia Tech, Arlington, V.A., U.S.A.},
+ number               = {Strategic Environmental Research and Development Program SERDP Project SI-1650},
+ title                = {Modeling and {S}imulation of a {D}istributed {G}eneration-{I}ntegrated{I}ntelligent {M}icrogrid},
+ year                 = {2010},
+ }
+
+@article{RU02,
+ author               = {R.T. Rockafellar and S. Uryasev},
+ journal              = {Journal of Banking \& Finance},
+ number               = {7},
+ pages                = {1443--1471},
+ title                = {Conditional {V}alue-at-{R}isk for {G}eneral {L}oss {D}istributions},
+ volume               = {26},
+ year                 = {2002},
+ }
+
+@techreport{SINTEF12,
+ author               = {SINTEF and URJC and SU and UCL and CET and HCE and Tecnalia and IIASA},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {{Scenario Generation Software Tool}},
+ type                 = {En{R}i{M}a {D}eliverable {D}3.2},
+ year                 = {2012},
+ }
+
+@article{SMKCMSSL12,
+ author               = {M. Stadler and C. Marnay and M. Kloess and G. Cardoso and G. Mendes and A. Siddiqui and R. Sharma and J. Lai},
+ journal              = {Journal of Energy Engineering},
+ number               = {2},
+ pages                = {95--108},
+ title                = {Optimal {P}lanning and {O}peration of {S}mart {G}rids with {E}lectric {V}ehicle {I}nterconnection},
+ volume               = {138},
+ year                 = {2012},
+ }
+
+@article{SSMAL11,
+ author               = {M. Stadler and A. Siddiqui and C. Marnay and H. Aki and J. Lai},
+ journal              = {European Transactions on Electrical Power},
+ number               = {2},
+ pages                = {1291--1309},
+ title                = {Control of {G}reenhouse {G}as {E}missions by {O}ptimal {D}{E}{R} {T}echnology {I}nvestment and {E}nergy {M}anagement in {Z}ero-{N}et-{E}nergy {B}uildings},
+ volume               = {21},
+ year                 = {2011},
+ }
+
+@techreport{U11,
+ author               = {UCL and CET and HCE and Tecnalia},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {Sankey {D}iagrams that {L}ink the {E}nergy {R}esources to the {L}oads},
+ type                 = {En{R}i{M}a {D}eliverable {D}2.1},
+ year                 = {2011},
+ }
+
+@techreport{U12,
+ author               = {UCL and IIASA and CET and SINTEF and Tecnalia and HCE},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {A {M}athematical {F}ormulation of {E}nergy {B}alance and {F}low {C}onstraints},
+ type                 = {En{R}i{M}a {D}eliverable {D}2.2},
+ year                 = {2012},
+ }
+
+@techreport{U13,
+ author               = {UCL and CET and SINTEF and HCE and Tecnalia},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {Quantifying {E}nergy and {F}inancial {B}enefits from {U}sing the {E}n{R}i{M}a {D}{S}{S}},
+ type                 = {En{R}i{M}a {D}eliverable {D}7.1},
+ year                 = {2013},
+ }
+
+@techreport{URJC14,
+ author               = {URJC and SU and UCL and SINTEF and CET and HCE and Tecnalia and IIASA},
+ institution          = {European Commission FP7 Project Number 260041},
+ title                = {{Stochastic Optimization}},
+ type                 = {En{R}i{M}a {D}eliverable {D}4.6},
+ year                 = {2014},
+ }
+
+@book{WV02,
+ address              = {Andover, Hampshire, U.K.},
+ author               = {W. Winston and M. Venkataramanan},
+ publisher            = {Cengage Learning},
+ title                = {Introduction to {M}athematical {P}rogramming: {A}pplications and {A}lgorithms},
+ year                 = {2002},
+ }
+
+@article{XFD08,
+ author               = {B. Xu and L. Fu and H. Di},
+ journal              = {Energy and Buildings},
+ number               = {9},
+ pages                = {1755--1764},
+ title                = {Dynamic {S}imulation of {S}pace {H}eating {S}ystems with {R}adiators {C}ontrolled by {TRV}s in {B}uildings},
+ volume               = {40},
+ year                 = {2008},
+ }
+
+@article{V14,
+ author               = {C. von Hirschhausen},
+ journal              = {Economics of Energy \& Environmental Policy},
+ number               = {2},
+ pages                = {1--12},
+ title                = {The {G}erman `{E}nergiewende' -- {A}n {I}ntroduction},
+ volume               = {3},
+ year                 = {2014},
+ }
+
+@article{W02,
+ author               = {R. Wilson},
+ journal              = {Econometrica},
+ number               = {4},
+ pages                = {1299--1340},
+ title                = {{Architecture of Power Markets}},
+ volume               = {70},
+ year                 = {2002},
+ }
+
+@article{WM11,
+ author               = {B. Woodman and C. Mitchell},
+ journal              = {Energy Policy},
+ number               = {7},
+ pages                = {3914--3921},
+ title                = {Learning from {E}xperience? {T}he {D}evelopment of the {R}enewables {O}bligation in {E}ngland and {W}ales 2002--2010},
+ volume               = {39},
+ year                 = {2011},
+ }
+
+@article{CW13,
+ author               = {Y. Chen and L. Wang},
+ journal              = {Networks and Spatial Economics},
+ number              = {2},
+ pages                = {149--181},
+ title                = {Renewable {P}ortfolio {S}tandards in the {P}resence of {G}reen {C}onsumers and {E}mission {T}rading {P}rograms},
+ volume               = {13},
+ year                 = {2013},
+ }
+
+@techreport{EC10,
+ author               = {EC},
+ institution          = {European Commission},
+ title                = {{Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the Energy Performance of Buildings}},
+ year                 = {2010},
+ }
+
+@article{S08,
+title = {{Demand Side Management: Benefits and Challenges}},
+journal = {Energy Policy},
+volume = {36},
+number = {12},
+pages = {4419--4426},
+year = {2008},
+author = "G. Strbac",
+}
+
+@article{GSMBGL06,
+title = {{Evaluating the Need for Economic Support Policies in Promoting Greenhouse Gas Emission Reduction Measures in the Building Sector: The Case of Greece}},
+journal = {Energy Policy},
+volume = {34},
+number = {15},
+pages = {2012--2031},
+year = {2006},
+author = {E. Georgopoulou and Y. Sarafidis and S. Mirasgedis and C.A. Balaras and A. Gaglia and D.P. Lalas},
+}
+
+@article{OCB13,
+title = {{Distributed Energy Resource System Optimisation Using Mixed Integer Linear Programming}},
+journal = {Energy Policy},
+volume = {61},
+pages = {249--266},
+year = {2013},
+author = {A. Omu and R. Choudhary and A. Boies},
+}
+
+@book{SDR09,
+ author               = {A. Shapiro and D. Dentcheva and A. Ruszczy{\'n}ski},
+ publisher            = {SIAM},
+ title                = {{Lectures on Stochastic Programming: Modeling and Theory}},
+ year                 = {2009},
+ }
+ 
+ @book{BL97,
+ author               = {J.R. Birge and F. Louveaux},
+ publisher            = {Springer},
+ title                = {{Introduction to Stochastic Programming}},
+ year                 = {1997},
+ }
+
+ @book{KaWa94,
+  title = {Stochastic Programming},
+  publisher = {John Wiley \& Sons},
+  year = {1994},
+  author = {Kall, Peter and Wallace, Stein W.},
+  address = {Chichester}
+ }
+
+ 
+ @article{RU00,
+  title={{Optimization of Conditional Value-at-Risk}},
+  author={R.T. Rockafellar and S. Uryasev},
+  journal={Journal of Risk},
+  volume={2},
+  pages={21--42},
+  year={2000},
+}
+
+@article{HKW03,
+year={2003},
+journal={Computational Optimization and Applications},
+volume={24},
+number={2--3},
+title={{A Heuristic for Moment-Matching Scenario Generation}},
+author={K. H{\o}yland and M. Kaut and S.W. Wallace},
+pages={169--185},
+}
+
+@article{K14,
+  author = {M. Kaut},
+  title = {{A Copula-Based Heuristic for Scenario Generation}},
+  journal = {Computational Management Science},
+  volume = {11},
+  number = {4},
+  pages = {503--516},
+  year = {2014},
+}
+
+@ARTICLE{KautEA12,
+  author = {Michal Kaut and Kjetil T. Midthun and Adrian S. Werner and Asgeir
+	Tomasgard and Lars Hellemo and Marte Fodstad},
+  title = {Multi-horizon stochastic programming},
+  journal = {Computational Management Science},
+  year = {2014},
+  volume = {11},
+  pages = {179--193},
+  number = {1--2},
+  note = {Special Issue: Computational Techniques in Management Science},
+  doi = {10.1007/s10287-013-0182-6}
+}
+
+@UNPUBLISHED{EnRiMaD4.3,
+  author = {{EnRiMa}},
+  title = {Stochastic Optimization Prototype},
+  year = {2013},
+  note = {Deliverable D4.3 of the EnRiMa project, available from \url{http://enrima-project.eu/project/publications}}
+}
